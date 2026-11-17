@@ -1,0 +1,5 @@
+err_max: 0.15
+if_debug: 1
+
+circle_radius: 1.5   // 半径，单位米
+circle_points: 12    // 第几个点
